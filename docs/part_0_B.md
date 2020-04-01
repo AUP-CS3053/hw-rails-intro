@@ -57,7 +57,7 @@ and
 $ heroku run rake db:seed
 ```
 
-Now you should be able to navigate to your app's URL.  `heroku open` opens your browser to that URL in case you forgot it, however this command does not work on c9, where you will need to navigate to the relevant URL.
+Now you should be able to navigate to your app's URL.  `heroku open` opens your browser to that URL in case you forgot it, however this command does not work on Gitpod, where you will need to navigate to the relevant URL.
 
 **Note:** don't proceed past this point until you are able to complete the above successfully, or you won't be able to receive a grade for this assignment!
 
